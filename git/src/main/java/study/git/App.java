@@ -1,8 +1,10 @@
 package study.git;
 
 /**
- * Hello world!
- *
+ * Simple git tutorial app.
+ * 
+ * @author pryvalov
+ * 
  */
 public class App {
     public static void main(String[] args) {
